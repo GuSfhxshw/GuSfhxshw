@@ -1,5 +1,5 @@
-[Link to English Version](english.md)
-
+[Versão em português](readme.md)
+<div align="center">
 # Welcome to my profile 🤩👋🏼!
 
 My name is Gustavo Ferreira, I am 18 years old. I have been passionate about programming since I started using the internet. I became fascinated by this world, having my first contacts "playing" with programming Plugins and production environments for Minecraft servers 😁
@@ -14,6 +14,16 @@ My name is Gustavo Ferreira, I am 18 years old. I have been passionate about pro
 - 
  <br> <div align="center"> [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/docs) 	[![NodeJS](https://img.shields.io/badge/node.js-239120?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/)
 </div>
+
+### contact me! 
+
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo19.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gxstavo19_/)
+</p>
+
+
 
 ## Tools and Technologies / Setup
 <p> I am an enthusiast of Windows Systems and Linux-based systems; I really enjoy learning about open-source tools and technologies and I also like to use command-line applications</p> 
@@ -38,3 +48,4 @@ In my current setup, I run my machine with Windows 10 and use the WSL2 applicati
 - ###  Backend Preferred<br> [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-framework/reference/index.html) [![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot#learn) [![express](	https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/en/starter/installing.html)
 ### studying about databases: <br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![postgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+</div>
