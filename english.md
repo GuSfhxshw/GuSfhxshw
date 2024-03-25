@@ -1,3 +1,5 @@
+[Link to English Version](english.md)
+
 # Welcome to my profile 🤩👋🏼!
 
 My name is Gustavo Ferreira, I am 18 years old. I have been passionate about programming since I started using the internet. I became fascinated by this world, having my first contacts "playing" with programming Plugins and production environments for Minecraft servers 😁
@@ -29,4 +31,10 @@ In my current setup, I run my machine with Windows 10 and use the WSL2 applicati
 
 - ###  <div align="center"> 🛠️ IDE:<br>  [![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://learn.microsoft.com/pt-br/visualstudio/?view=vs-2022) [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/download/)
 
-- ### <div align="center"> Preferred FrontEnd: <br>[![HTML Badge](https
+- ### <div align="center"> Preferred FrontEnd: <br>[![HTML Badge](https://img.shields.io/badge/HTML-ff8000?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/) [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://nextjs.org/)
+
+
+
+- ###  Backend Preferred<br> [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-framework/reference/index.html) [![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot#learn) [![express](	https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/en/starter/installing.html)
+### studying about databases: <br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![postgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
