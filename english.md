@@ -1,4 +1,4 @@
-[Versão em português](readme.md)
+[Versão em português](README.md)
 <div align="center">
 
 # Welcome to my profile 🤩👋🏼!
