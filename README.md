@@ -49,4 +49,4 @@ utilizar um pouco de sistemas baseados em Linux virtualizados
 ### estudando sobre banco de dados: <br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![postgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-$${\color{lightgreen}#} \space {\color{lightblue} }{\color{lightblue}SouKick}$$ 
+$${\color{lightblue} # \space \color{lightGreen}SouKick}$$
